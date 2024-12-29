@@ -1,0 +1,1 @@
+# MangaUpdates API Python Wrapper
